@@ -1,0 +1,1 @@
+<view class="artdetail"><view class="title"><view class="txt">{{detail.title}}</view><view class="control"></view></view><view class="srx"><scroll-view class="src" scroll-y><view class="content"><rich-text nodes="{{detail.content_a}}"></rich-text></view></scroll-view></view></view>

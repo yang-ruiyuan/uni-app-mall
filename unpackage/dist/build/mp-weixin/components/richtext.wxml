@@ -1,0 +1,1 @@
+<view class="alertRich"><view class="statusbar"></view><view class="dailog"><rich-text nodes="{{data}}"></rich-text><view data-event-opts="{{[['tap',[['$emit',['on-close']]]]]}}" class="close" bindtap="__e"></view></view></view>

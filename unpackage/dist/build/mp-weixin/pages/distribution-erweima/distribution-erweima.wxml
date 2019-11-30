@@ -1,0 +1,1 @@
+<view><view class="qrCode" style="{{'background-image:'+('url('+imgSrc+')')+';'}}" mode="aspectFill" data-event-opts="{{[['tap',[['preImg',['$0'],['imgSrc']]]]]}}" bindtap="__e"></view></view>

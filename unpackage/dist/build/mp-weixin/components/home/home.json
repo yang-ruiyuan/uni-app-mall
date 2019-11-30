@@ -1,0 +1,27 @@
+{
+  "usingComponents": {
+    "banner": "/components/home/children/banner",
+    "searchwithlocation": "/components/home/children/search_with_location",
+    "notice": "/components/home/children/notice",
+    "category-nav": "/components/home/children/category",
+    "product-list": "/components/home/children/product_list",
+    "showcase-two": "/components/home/children/showcase_two",
+    "slide-nav": "/components/home/children/slidenav",
+    "showcase-three": "/components/home/children/showcase_three",
+    "brands": "/components/home/children/brands",
+    "cut-line": "/components/home/children/cutline",
+    "display-card": "/components/home/children/displaycard",
+    "video-view": "/components/home/children/vidoeview",
+    "rich-text": "/components/home/children/richtext",
+    "audio-musie": "/components/home/children/audiomusie",
+    "map-posit": "/components/home/children/map_posit",
+    "phone-tel": "/components/home/children/phonetel",
+    "cross-skid": "/components/home/children/cross_skid",
+    "undermall-home": "/components/home/children/undermallhome",
+    "right-tab-bar": "/components/home/children/right_tabBar",
+    "video-section": "/components/home/children/videosection",
+    "text-section": "/components/home/children/textsection",
+    "image-ad": "/components/home/children/image_ad"
+  },
+  "component": true
+}

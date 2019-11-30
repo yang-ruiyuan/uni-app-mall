@@ -1,0 +1,1 @@
+<com-address vue-id="1" item="{{item}}" bind:__l="__l"></com-address>

@@ -1,0 +1,1 @@
+<view class="image-ad data-v-0e28384c" style="{{'margin-top:'+(data.margin+'px')+';'+('margin-bottom:'+(data.margin2+'px')+';')}}"><image style="width:100%;" src="{{data.img.url}}" mode="widthFix" data-item="{{data.img}}" data-event-opts="{{[['tap',[['$LinkTo',['$0'],['data.img']]]]]}}" bindtap="__e" class="data-v-0e28384c"></image></view>

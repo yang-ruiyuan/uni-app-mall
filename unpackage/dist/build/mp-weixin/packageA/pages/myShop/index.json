@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "店铺升级",
+  "usingComponents": {
+    "alert-rich": "/components/richtext"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "大礼包结算",
+  "usingComponents": {
+    "uni-icon": "/components/uni-icon"
+  }
+}

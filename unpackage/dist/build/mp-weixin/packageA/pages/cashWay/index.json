@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "提现",
+  "usingComponents": {
+    "alert-rich": "/components/richtext",
+    "key-board": "/components/keyboard"
+  }
+}

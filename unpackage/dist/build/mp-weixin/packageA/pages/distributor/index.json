@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "alert-rich": "/components/richtext"
+  }
+}

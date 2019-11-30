@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的团队",
+  "usingComponents": {
+    "uni-icon": "/components/uni-icon",
+    "uni-drawer": "/components/uni-drawer"
+  }
+}

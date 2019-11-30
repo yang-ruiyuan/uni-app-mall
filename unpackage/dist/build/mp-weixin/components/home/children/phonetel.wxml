@@ -1,0 +1,1 @@
+<view class="phone_tel data-v-0b63e10f" style="{{'margin-top:'+(data.margin+'px')+';'+('margin-bottom:'+(data.margin2+10+'px')+';')}}"><view class="img data-v-0b63e10f"></view><text class="text data-v-0b63e10f">{{data.placeholder+data.haoma}}</text></view>

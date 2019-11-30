@@ -1,0 +1,81 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/creat_store/creat_store",
+    "pages/coupon/coupon",
+    "pages/login/getUserInfo",
+    "pages/login/index",
+    "pages/resetPwd/index",
+    "pages/distributionView/index",
+    "pages/Register/index",
+    "pages/product_detail/product_detail",
+    "pages/evaluate/evaluate",
+    "pages/create-order/create-order",
+    "pages/pay-order/pay-order",
+    "pages/integral/index",
+    "pages/tour_diy/index",
+    "pages/myOrder/index",
+    "pages/myfoot/index",
+    "pages/myCollect/index",
+    "pages/address/index",
+    "pages/addAddress/index",
+    "pages/editAddr/index",
+    "pages/myAssets/index",
+    "pages/setPassword/setPassword",
+    "pages/bindPhone/index",
+    "pages/Distribution/index",
+    "pages/my-member/my-member",
+    "pages/currency-history/currency-history",
+    "pages/distribution-group/distribution-group",
+    "pages/distribution-erweima/distribution-erweima",
+    "pages/productList/index",
+    "pages/orderDetail/index",
+    "pages/cash/index",
+    "pages/addDeposit/index",
+    "pages/comment/index",
+    "pages/profitDetail/index"
+  ],
+  "subPackages": [
+    {
+      "root": "packageA",
+      "pages": [
+        "pages/bigBag/index",
+        "pages/myPrivilege/index",
+        "pages/distributor/index",
+        "pages/createOrder/createOrder",
+        "pages/packagelist/index",
+        "pages/packageDetails/index",
+        "pages/apply/index",
+        "pages/myShop/index",
+        "pages/cashWay/index",
+        "pages/bindAccount/index",
+        "pages/cashLog/index"
+      ]
+    },
+    {
+      "root": "packageB",
+      "pages": [
+        "pages/articleDetail/index",
+        "pages/articleList/index",
+        "pages/articlePay/index",
+        "pages/videoList/index",
+        "pages/videoComment/index",
+        "pages/Record/index",
+        "pages/dataEdition/index",
+        "pages/refund/index",
+        "pages/Team_detail/Team_detail",
+        "pages/waybill/waybill"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "Sinlu国际购",
+    "navigationBarBackgroundColor": "#0099ff",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {
+    "empty-data": "/components/EmptyData"
+  },
+  "sitemapLocation": "sitemap.json"
+}

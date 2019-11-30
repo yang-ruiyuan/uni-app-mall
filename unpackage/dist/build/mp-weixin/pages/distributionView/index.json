@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "累积收益",
+  "usingComponents": {
+    "uni-badge": "/components/uni-badge",
+    "uni-drawer": "/components/uni-drawer"
+  }
+}

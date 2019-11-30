@@ -1,0 +1,1 @@
+<view class="map_posit data-v-cbdea2ca" style="{{'margin-top:'+(data.margin+'px')+';'+('margin-bottom:'+(data.margin2+'px')+';')}}"><view class="map data-v-cbdea2ca"><view class="address data-v-cbdea2ca"><view class="icon data-v-cbdea2ca"></view><text class="text data-v-cbdea2ca">{{data.placeholder}}</text></view></view></view>

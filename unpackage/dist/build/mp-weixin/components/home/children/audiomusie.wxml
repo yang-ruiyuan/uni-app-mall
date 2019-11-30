@@ -1,0 +1,1 @@
+<view class="audio_musie data-v-6e60385e" style="{{'margin-top:'+(data.margin+'px')+';'+('margin-bottom:'+(data.margin2+'px')+';')}}"><image class="img data-v-6e60385e" src="{{isplayingMusic?'/images/music-stop.png':'/images/music-start.png'}}"></image><text class="data-v-6e60385e">{{data.placeholder}}</text></view>

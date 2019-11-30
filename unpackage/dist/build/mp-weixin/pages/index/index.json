@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "微酒柜",
+  "usingComponents": {
+    "home": "/components/home/home",
+    "tab-bar": "/components/tabBar/index",
+    "cart": "/components/cart/cart",
+    "user-center": "/components/user_center/user_center",
+    "classify": "/components/classify/classify"
+  }
+}
